@@ -10,11 +10,11 @@ export default sidebar({
     { text: "读书笔记", icon: "fa6-brands:readme", link: "https://newzone.top/reading/" },
     // 指定显示页面
     {
-      text: "🧰 应用手册",
+      text: "🧰 基础知识",
       icon: "",
       prefix: "/apps/",
       link: "",
-      collapsible: true,
+      collapsible: true,  
       children: [
         "Applist.md",
         "toolbox.md",
@@ -28,7 +28,7 @@ export default sidebar({
       ],
     },
     {
-      text: "🌐 页面开发",
+      text: "🌐 重难点突破",
       icon: "",
       prefix: "/web/",
       link: "",
@@ -36,7 +36,7 @@ export default sidebar({
       children: "structure",
     },
     {
-      text: "🏗️ 网站部署",
+      text: "🏗️ 实验突破",
       icon: "",
       prefix: "/deploy/",
       link: "",
@@ -54,7 +54,7 @@ export default sidebar({
       ],
     },
     {
-      text: "🔡 代码编程",
+      text: "🔡 知识点过关训练",
       icon: "",
       prefix: "/code/",
       collapsible: true,
@@ -75,7 +75,7 @@ export default sidebar({
       ],
     },
     {
-      text: "🛖 生活记录",
+      text: "🛖 一轮复习",
       icon: "",
       prefix: "/family/",
       collapsible: true,
