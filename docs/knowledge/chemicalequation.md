@@ -1,0 +1,500 @@
+---
+title：化学方程式合集
+order: 4
+---
+# 人教版九年级化学方程式（按单元）含实验现象、反应类型
+
+## 第二单元
+
+**1.碳燃烧**
+
+$\ce{C + O2}\xlongequal{点燃}\ce{CO2}$
+
+基本反应类型：化合反应
+
+实验现象：
+
+空气中：发出红光，放热，生成使澄清石灰水变浑浊的气体；  
+氧气中：发出白光，放热，生成使澄清石灰水变浑浊的气体
+
+**2.硫燃烧**	<span data-type="text" style="color: var(--b3-font-color5);">（手动水印-微信公众号：每日一化学）</span>
+
+$\ce{S + O2}\xlongequal{点燃}\ce{SO2}$
+
+基本反应类型：化合反应
+
+实验现象：
+
+空气中：发出微弱的淡蓝色火焰，放热，生成有刺激性气味的气体；  
+氧气中：发出蓝紫色火焰，放热，生成有刺激性气味的气体
+
+**3.红磷燃烧**
+
+$\ce{4P + 5O2}\xlongequal{点燃}\ce{2P2O5}$
+
+基本反应类型：化合反应
+
+实验现象：放热，产生大量白烟
+
+**4.铁丝燃烧**
+
+$\ce{3Fe + 2O2}\xlongequal{点燃}\ce{Fe3O4}$
+
+基本反应类型：化合反应
+
+实验现象：
+
+空气中：铁丝红热，不能燃烧；  
+氧气中：剧烈燃烧，火星四射，放热，生成黑色固体
+
+**5.镁条燃烧**
+
+$\ce{2Mg + O2}\xlongequal{点燃}\ce{2MgO}$
+
+基本反应类型：化合反应
+
+实验现象：发出耀眼的白光，产生白烟，放热，生成白色粉末
+
+**6.高锰酸钾制取氧气**
+
+$\ce{2KMnO4}\xlongequal{\Delta}\ce{K2MnO4 + MnO2 + O2 ^}$
+
+基本反应类型：分解反应
+
+**7.过氧化氢制取氧气**	<span data-type="text" style="color: var(--b3-font-color5);">（手动水印-微信公众号：每日一化学）</span>
+
+$\ce{2H2O2}\xlongequal{\ce{MnO2}}\ce{2H2O + O2 ^}$  
+
+基本反应类型：分解反应
+
+**8.汞和氧气反应**
+
+$\ce{2Hg + O2}\xlongequal{\Delta}\ce{2HgO}$
+
+基本反应类型：化合反应
+
+**9.氧化汞加热分解**
+
+$\ce{2HgO}\xlongequal{\Delta}\ce{2Hg + O2 ^}$
+
+基本反应类型：分解反应
+
+## 第四单元
+
+**10.氢气燃烧**
+
+$\ce{2H2 + O2}\xlongequal{点燃}\ce{2H2O}$
+
+基本反应类型：化合反应
+
+实验现象：氢气燃烧火焰呈淡蓝色；在火焰上方罩一个干冷的烧杯，烧杯内壁有水雾
+
+**11.电解水**	<span data-type="text" style="color: var(--b3-font-color5);">（手动水印-微信公众号：每日一化学）</span>
+
+$\ce{2H2O}\xlongequal{通电}\ce{2H2 ^ + O2 ^}$
+
+基本反应类型：分解反应
+
+## 第五单元
+
+**12.铜与氧气反应**
+
+$\ce{2Cu + O2}\xlongequal{\Delta}\ce{2CuO}$
+
+基本反应类型：化合反应
+
+实验现象：红色粉末逐渐变为黑色
+
+**13.铁和硫酸铜溶液反应**
+
+$\ce{Fe + CuSO4}\xlongequal{}\ce{Cu + FeSO4}$
+
+基本反应类型：置换反应
+
+实验现象：铁钉表面有红色物质析出，溶液由蓝色变为浅绿色
+
+**14.碳酸钠与稀盐酸反应**	<span data-type="text" style="color: var(--b3-font-color5);">（手动水印-微信公众号：每日一化学）</span>
+
+$\ce{Na2CO3 + 2HCl}\xlongequal{}\ce{2NaCl + H2O + CO2 ^}$
+
+基本反应类型：复分解反应
+
+实验现象：有大量气泡产生
+
+**15.氢氧化钠溶液和硫酸铜溶液反应**
+
+$\ce{2NaOH + CuSO4}\xlongequal{}\ce{Na2SO4 + Cu(OH)2 v}$
+
+基本反应类型：复分解反应
+
+实验现象：有蓝色絮状沉淀生成
+
+**16.高温煅烧大理石**
+
+$\ce{CaCO3}\xlongequal{高温}\ce{CaO + CO2 ^}$
+
+基本反应类型：分解反应
+
+## 第六单元
+
+**17.碳不充分燃烧**
+
+$\ce{2C + O2}\xlongequal{点燃}\ce{2CO}$
+
+基本反应类型：化合反应
+
+**18.碳还原氧化铜**
+
+$\ce{C + 2CuO}\xlongequal{高温}\ce{2Cu + CO2 ^}$
+
+基本反应类型：置换反应
+
+实验现象：黑色粉末逐渐变为红色
+
+**19.碳还原氧化铁**	<span data-type="text" style="color: var(--b3-font-color5);">（手动水印-微信公众号：每日一化学）</span>
+
+$\ce{3C + 2Fe2O3}\xlongequal{高温}\ce{4Fe + 3CO2 ^}$
+
+基本反应类型：置换反应
+
+实验现象：红色粉末逐渐变为黑色
+
+**20.碳还原二氧化碳**
+
+$\ce{C + CO2}\xlongequal{高温}\ce{2CO}$
+
+基本反应类型：化合反应
+
+**21.碳还原四氧化三铁**
+
+$\ce{2C + Fe3O4}\xlongequal{高温}\ce{3Fe + 2CO2 ^}$
+
+基本反应类型：置换反应
+
+**22.碳酸不稳定分解**
+
+$\ce{H2CO3}\xlongequal{}\ce{H2O + CO2 ^}$
+
+基本反应类型：分解反应
+
+**23.二氧化碳和水反应**
+
+$\ce{CO2 + H2O}\xlongequal{}\ce{H2CO3}$
+
+基本反应类型：化合反应
+
+**24.二氧化碳使澄清石灰水变浑浊**
+
+$\ce{CO2 + Ca(OH)2}\xlongequal{}\ce{CaCO3 v + H2O}$
+
+基本反应类型：不属于基本反应类型
+
+实验现象：澄清石灰水变浑浊
+
+**25.一氧化碳燃烧**	<span data-type="text" style="color: var(--b3-font-color5);">（手动水印-微信公众号：每日一化学）</span>
+
+$\ce{2CO + O2}\xlongequal{点燃}\ce{2CO2}$
+
+基本反应类型：化合反应
+
+实验现象：火焰呈蓝色
+
+**26.一氧化碳还原氧化铜**
+
+$\ce{CO + CuO}\xlongequal{\Delta}\ce{Cu + CO2}$
+
+基本反应类型：不属于基本反应类型
+
+实验现象：黑色粉末逐渐变为红色
+
+**27.一氧化碳还原氧化铁**
+
+$\ce{3CO + Fe2O3}\xlongequal{高温}\ce{2Fe + 3CO2}$
+
+基本反应类型：不属于基本反应类型
+
+实验现象：红色粉末逐渐变为黑色
+
+**28.一氧化碳还原四氧化三铁**
+
+$\ce{4CO + Fe3O4}\xlongequal{高温}\ce{3Fe + 4CO2}$
+
+基本反应类型：不属于基本反应类型
+
+**29.实验室制取二氧化碳**
+
+$\ce{CaCO3 + 2HCl}\xlongequal{}\ce{CaCl2 + H2O + CO2 ^}$
+
+基本反应类型：复分解反应
+
+## 第七单元
+
+**30.乙醇燃烧**
+
+$\ce{C2H5OH + 3O2}\xlongequal{点燃}\ce{2CO2 + 3H2O}$
+
+基本反应类型：不属于基本反应类型
+
+**31.氧化钙和水反应**
+
+$\ce{CaO + H2O}\xlongequal{}\ce{Ca(OH)2}$
+
+基本反应类型：化合反应
+
+实验现象：放热
+
+**32.甲烷燃烧**	<span data-type="text" style="color: var(--b3-font-color5);">（手动水印-微信公众号：每日一化学）</span>
+
+$\ce{CH4 + 2O2}\xlongequal{点燃}\ce{CO2 + 2H2O}$
+
+基本反应类型：不属于基本反应类型
+
+**33.实验室制取氢气**
+
+$\ce{Zn + H2SO4}\xlongequal{}\ce{ZnSO4 + H2 ^}$
+
+基本反应类型：置换反应
+
+实验现象：有大量气泡产生
+
+## 第八单元
+
+**34.铝与氧气反应**
+
+$\ce{4Al + 3O2}\xlongequal{}\ce{2Al2O3}$
+
+基本反应类型：化合反应
+
+**35.镁与稀盐酸**
+
+$\ce{Mg + 2HCl}\xlongequal{}\ce{MgCl2 + H2 ^}$
+
+基本反应类型：置换反应
+
+实验现象：有大量气泡产生
+
+**36.铝与稀盐酸**	<span data-type="text" style="color: var(--b3-font-color5);">（手动水印-微信公众号：每日一化学）</span>
+
+$\ce{2Al + 6HCl}\xlongequal{}\ce{2AlCl3 + 3H2 ^}$
+
+基本反应类型：置换反应
+
+实验现象：有大量气泡产生
+
+**37.锌与稀盐酸**
+
+$\ce{Zn + 2HCl}\xlongequal{}\ce{ZnCl2 + H2 ^}$
+
+基本反应类型：置换反应
+
+实验现象：有大量气泡产生
+
+**38.铁与稀盐酸**
+
+$\ce{Fe + 2HCl}\xlongequal{}\ce{FeCl2 + H2 ^}$
+
+基本反应类型：置换反应
+
+实验现象：有气泡产生，溶液由无色变为浅绿色
+
+**39.镁与稀硫酸**
+
+$\ce{Mg + H2SO4}\xlongequal{}\ce{MgSO4 + H2 ^}$
+
+基本反应类型：置换反应
+
+实验现象：有大量气泡产生
+
+**40.铝与稀硫酸**
+
+$\ce{2Al + 3H2SO4}\xlongequal{}\ce{Al2(SO4)3 + 3H2 ^}$
+
+基本反应类型：置换反应
+
+实验现象：有大量气泡产生
+
+**41.锌与稀硫酸**
+
+$\ce{Zn + H2SO4}\xlongequal{}\ce{ZnSO4 + H2 ^}$
+
+基本反应类型：置换反应
+
+实验现象：有大量气泡产生
+
+**42.铁与稀硫酸**
+
+$\ce{Fe + H2SO4}\xlongequal{}\ce{FeSO4 + H2 ^}$
+
+基本反应类型：置换反应
+
+实验现象：有气泡产生，溶液由无色变为浅绿色
+
+**43.铝与硫酸铜溶液**
+
+$\ce{2Al + 3CuSO4}\xlongequal{}\ce{Al2(SO4)3 + 3Cu}$
+
+基本反应类型：置换反应
+
+实验现象：铝丝表面有红色物质析出，溶液由蓝色变为无色
+
+**44.铜与硝酸银溶液**
+
+$\ce{Cu + 2AgNO3}\xlongequal{}\ce{Cu(NO3)2 + 2Ag}$
+
+基本反应类型：置换反应
+
+实验现象：铜丝表面由银白色物质析出，溶液由无色变为浅绿色
+
+## 第十单元
+
+**45.稀盐酸除铁锈**
+
+$\ce{6HCl + Fe2O3}\xlongequal{}\ce{2FeCl3 + 3H2O}$
+
+基本反应类型：复分解反应实验现象：
+
+铁锈逐渐溶解，溶液由无色变为黄色
+
+**46.稀硫酸除铁锈**
+
+$\ce{3H2SO4 + Fe2O3}\xlongequal{}\ce{Fe2(SO4)3 + 3H2O}$
+
+基本反应类型：复分解反应
+
+实验现象：铁锈逐渐溶解，溶液由无色变为黄色
+
+**47.稀盐酸与氢氧化钠溶液**
+
+$\ce{NaOH + HCl}\xlongequal{}\ce{NaCl + H2O}$
+
+基本反应类型：复分解反应
+
+**48.稀盐酸与氢氧化钙溶液**
+
+$\ce{Ca(OH)2 + 2HCl}\xlongequal{}\ce{CaCl2 + 2H2O}$
+
+基本反应类型：复分解反应
+
+**49.稀硫酸与氢氧化钠溶液**
+
+$\ce{H2SO4 + 2NaOH}\xlongequal{}\ce{Na2SO4 + 2H2O}$
+
+基本反应类型：复分解反应
+
+**50.稀盐酸与碳酸钠溶液**
+
+$\ce{2HCl + Na2CO3}\xlongequal{}\ce{2NaCl + H2O + CO2 ^}$
+
+基本反应类型：复分解反应
+
+实验现象：有大量气泡产生
+
+**51.稀盐酸与硝酸银溶液**	<span data-type="text" style="color: var(--b3-font-color5);">（手动水印-微信公众号：每日一化学）</span>
+
+$\ce{HCl + AgNO3}\xlongequal{}\ce{AgCl v + HNO3}$
+
+基本反应类型：复分解反应
+
+实验现象：有白色沉淀生成
+
+**52.稀硫酸与氯化钡溶液**
+
+$\ce{H2SO4 + BaCl2}\xlongequal{}\ce{BaSO4 v + 2HCl}$
+
+基本反应类型：复分解反应
+
+实验现象：有白色沉淀生成
+
+**53.二氧化碳与氢氧化钠溶液**
+
+$\ce{2NaOH + CO2}\xlongequal{}\ce{Na2CO3 + H2O}$
+
+基本反应类型：不属于基本反应类型
+
+**54.二氧化碳与澄清石灰水**
+
+$\ce{Ca(OH)2 + CO2}\xlongequal{}\ce{CaCO3 v + H2O}$
+
+基本反应类型：不属于基本反应类型
+
+实验现象：有白色沉淀生成
+
+**55.氢氧化钠溶液与硫酸铜溶液**
+
+$\ce{2NaOH + CuSO4}\xlongequal{}\ce{Na2SO4 + Cu(OH)2 v}$
+
+基本反应类型：复分解反应
+
+实验现象：有蓝色絮状沉淀生成
+
+**56.氢氧化钠溶液与氯化铁溶液**	<span data-type="text" style="color: var(--b3-font-color5);">（手动水印-微信公众号：每日一化学）</span>
+
+$\ce{3NaOH + FeCl3}\xlongequal{}\ce{3NaCl + Fe(OH)3 v}$
+
+基本反应类型：复分解反应
+
+实验现象：有红褐色沉淀生成
+
+**57.澄清石灰水与碳酸钠溶液**
+
+$\ce{Ca(OH)2 + Na2CO3}\xlongequal{}\ce{CaCO3 v + 2NaOH}$
+
+基本反应类型：复分解反应
+
+实验现象：有白色沉淀生成
+
+**58.稀盐酸与碳酸钙**
+
+$\ce{CaCO3 + 2HCl}\xlongequal{}\ce{CaCl2 + H2O + CO2 ^}$
+
+基本反应类型：复分解反应
+
+实验现象：有大量气泡产生给 
+
+**59.稀盐酸与碳酸钠溶液**
+
+$\ce{2HCl + Na2CO3}\xlongequal{}\ce{2NaCl + H2O + CO2 ^}$
+
+基本反应类型：复分解反应
+
+实验现象：有大量气泡产生
+
+**60.稀盐酸与碳酸氢钠溶液**
+
+$\ce{HCl + NaHCO3}\xlongequal{}\ce{NaCl + H2O + CO2 ^}$
+
+基本反应类型：复分解反应
+
+实验现象：有大量气泡产生
+
+**61.澄清石灰水与碳酸钠溶液**	<span data-type="text" style="color: var(--b3-font-color5);">（手动水印-微信公众号：每日一化学）</span>
+
+$\ce{Ca(OH)2 + Na2CO3}\xlongequal{}\ce{CaCO3 v + 2NaOH}$
+
+基本反应类型：复分解反应
+
+实验现象：有白色沉淀生成
+
+**62.氢氧化钠溶液与硫酸铜溶液**
+
+$\ce{2NaOH + CuSO4}\xlongequal{}\ce{Na2SO4 + Cu(OH)2 v}$
+
+基本反应类型：复分解反应
+
+实验现象：有蓝色絮状沉淀生成
+
+**63.硫酸铜溶液与氯化钡溶液**
+
+$\ce{CuSO4 + BaCl2}\xlongequal{}\ce{BaSO4 v + CuCl2}$
+
+基本反应类型：复分解反应
+
+实验现象：有白色沉淀生成
+
+## 第十一单元
+
+**64.葡萄糖在人类体内缓慢氧化提供能量**
+
+$\ce{C6H12O6 + 6O2}\xlongequal{酶}\ce{6CO2 + 6H2O}$
+
+基本反应类型：不属于基本反应类型

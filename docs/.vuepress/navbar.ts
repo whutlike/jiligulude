@@ -10,11 +10,11 @@ export default navbar([
     icon: "fa6-solid:bars-staggered",
     prefix: "/",
     children: [
-      "apps/Applist",
+      "knowledge/Applist",
       {
         text: "常用扩展",
         icon: "fa6-brands:chrome",
-        link: "apps/Chrome",
+        link: "knowledge/Chrome",
       },
       {
         text: "服务/专题",
@@ -24,7 +24,7 @@ export default navbar([
           {
             text: "专题示例",
             icon: "fa6-solid:dice-d20",
-            link: "apps/topic/",
+            link: "knowledge/topic/",
           },
         ],
       },
@@ -33,7 +33,7 @@ export default navbar([
   {
     text: "生活",
     icon: "fa6-solid:bed-pulse",
-    prefix: "/family/",
+    prefix: "/review1/",
     children: ["Diet", "Coupon"],
   },
   {
