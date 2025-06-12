@@ -32,6 +32,7 @@ export default defineUserConfig({
       // 设置你的 Analytics ID
       id: "GTM-N2BZTHXF",
     }),
+    'vuepress-plugin-katex',
   ],
   bundler: webpackBundler({
     postcss: {},
