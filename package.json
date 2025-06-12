@@ -19,7 +19,7 @@
     "vuepress": "2.0.0-rc.20",
     "vuepress-theme-hope": "2.0.0-rc.73",
     "markdown-it-katex": "^2.0.3",
-    "katex": "^0.16.0"
+    "katex": "^0.16.22"
   },
   "devDependencies": {
     "@vuepress/plugin-docsearch": "2.0.0-rc.80",
