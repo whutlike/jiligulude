@@ -35,6 +35,7 @@ export default defineUserConfig({
     }),
     // 数学公式支持
     markdownMathPlugin({
+      type: "katex", // 使用 KaTeX 渲染数学公式
       mhchem: true, // 支持化学公式
     }),
   ],
