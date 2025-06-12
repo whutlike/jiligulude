@@ -32,7 +32,14 @@ export default defineUserConfig({
       // 设置你的 Analytics ID
       id: "GTM-N2BZTHXF",
     }),
-    'vuepress-plugin-katex',
+    [
+      'vuepress-plugin-katex',
+      {
+        // 启用 mhchem 扩展以支持化学公式
+        mhchem: true,
+        // 你也可以添加其他 KaTeX 配置项
+      }
+    ],
   ],
   bundler: webpackBundler({
     postcss: {},
