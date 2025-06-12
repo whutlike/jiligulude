@@ -1,7 +1,9 @@
 import { webpackBundler } from "@vuepress/bundler-webpack";
 import { defineUserConfig } from "vuepress";
 import { googleAnalyticsPlugin } from "@vuepress/plugin-google-analytics";
-import { katexPlugin } from "vuepress-plugin-katex"; // 新增
+import katexPluginPkg from "vuepress-plugin-katex"; // 用 default 导入
+
+const { katexPlugin } = katexPluginPkg; // 从 default 中解构
 
 import theme from "./theme.js";
 
