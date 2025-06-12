@@ -1,7 +1,6 @@
 import { webpackBundler } from "@vuepress/bundler-webpack";
 import { defineUserConfig } from "vuepress";
 import { googleAnalyticsPlugin } from "@vuepress/plugin-google-analytics";
-import { mdEnhancePlugin } from "vuepress-plugin-md-enhance";
 
 import theme from "./theme.js";
 
@@ -33,13 +32,7 @@ export default defineUserConfig({
       // 设置你的 Analytics ID
       id: "GTM-N2BZTHXF",
     }),
-    // KaTeX 及化学公式支持
-    mdEnhancePlugin({
-      katex: true,      // 启用 KaTeX
-      math: true,       // 启用数学公式
-      // 启用化学公式（mhchem 扩展，支持 \ce{}）
-      // 只需开启 katex:true 即可自动支持化学公式
-    }),
+    'vuepress-plugin-katex',
   ],
   bundler: webpackBundler({
     postcss: {},
