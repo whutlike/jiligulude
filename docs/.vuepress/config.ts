@@ -1,7 +1,6 @@
 import { webpackBundler } from "@vuepress/bundler-webpack";
 import { defineUserConfig } from "vuepress";
 import { googleAnalyticsPlugin } from "@vuepress/plugin-google-analytics";
-import markdownItKatex from "markdown-it-katex";
 
 import theme from "./theme.js";
 
@@ -34,9 +33,6 @@ export default defineUserConfig({
       id: "GTM-N2BZTHXF",
     }),
   ],
-  extendsMarkdown: (md) => {
-    md.use(markdownItKatex);
-  },
   bundler: webpackBundler({
     postcss: {},
     vue: {},
