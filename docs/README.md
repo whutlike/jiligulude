@@ -1,6 +1,6 @@
 ---
 article: false
-title: LearnData 开源笔记
+title: 这是一个首页
 icon: fa6-solid:book-open-reader
 ---
 
