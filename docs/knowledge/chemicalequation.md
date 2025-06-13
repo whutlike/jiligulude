@@ -1,7 +1,8 @@
 ---
-title：化学方程式合集
+title: 化学方程式合集
+author: 氢气不纯
+date: 2025-06-10
 ---
-# 人教版九年级化学方程式（按单元）含实验现象、反应类型
 
 ## 第二单元
 
@@ -16,7 +17,7 @@ $\ce{C + O2}\xlongequal{点燃}\ce{CO2}$
 空气中：发出红光，放热，生成使澄清石灰水变浑浊的气体；  
 氧气中：发出白光，放热，生成使澄清石灰水变浑浊的气体
 
-**2.硫燃烧**	<span data-type="text" style="color: var(--b3-font-color5);">（手动水印-微信公众号：每日一化学）</span>
+**2.硫燃烧**	
 
 $\ce{S + O2}\xlongequal{点燃}\ce{SO2}$
 
@@ -60,7 +61,7 @@ $\ce{2KMnO4}\xlongequal{\Delta}\ce{K2MnO4 + MnO2 + O2 ^}$
 
 基本反应类型：分解反应
 
-**7.过氧化氢制取氧气**	<span data-type="text" style="color: var(--b3-font-color5);">（手动水印-微信公众号：每日一化学）</span>
+**7.过氧化氢制取氧气**	
 
 $\ce{2H2O2}\xlongequal{\ce{MnO2}}\ce{2H2O + O2 ^}$  
 
@@ -88,7 +89,7 @@ $\ce{2H2 + O2}\xlongequal{点燃}\ce{2H2O}$
 
 实验现象：氢气燃烧火焰呈淡蓝色；在火焰上方罩一个干冷的烧杯，烧杯内壁有水雾
 
-**11.电解水**	<span data-type="text" style="color: var(--b3-font-color5);">（手动水印-微信公众号：每日一化学）</span>
+**11.电解水**	
 
 $\ce{2H2O}\xlongequal{通电}\ce{2H2 ^ + O2 ^}$
 
@@ -112,7 +113,7 @@ $\ce{Fe + CuSO4}\xlongequal{}\ce{Cu + FeSO4}$
 
 实验现象：铁钉表面有红色物质析出，溶液由蓝色变为浅绿色
 
-**14.碳酸钠与稀盐酸反应**	<span data-type="text" style="color: var(--b3-font-color5);">（手动水印-微信公众号：每日一化学）</span>
+**14.碳酸钠与稀盐酸反应**	
 
 $\ce{Na2CO3 + 2HCl}\xlongequal{}\ce{2NaCl + H2O + CO2 ^}$
 
@@ -150,7 +151,7 @@ $\ce{C + 2CuO}\xlongequal{高温}\ce{2Cu + CO2 ^}$
 
 实验现象：黑色粉末逐渐变为红色
 
-**19.碳还原氧化铁**	<span data-type="text" style="color: var(--b3-font-color5);">（手动水印-微信公众号：每日一化学）</span>
+**19.碳还原氧化铁**	
 
 $\ce{3C + 2Fe2O3}\xlongequal{高温}\ce{4Fe + 3CO2 ^}$
 
@@ -190,7 +191,7 @@ $\ce{CO2 + Ca(OH)2}\xlongequal{}\ce{CaCO3 v + H2O}$
 
 实验现象：澄清石灰水变浑浊
 
-**25.一氧化碳燃烧**	<span data-type="text" style="color: var(--b3-font-color5);">（手动水印-微信公众号：每日一化学）</span>
+**25.一氧化碳燃烧**	
 
 $\ce{2CO + O2}\xlongequal{点燃}\ce{2CO2}$
 
@@ -242,7 +243,7 @@ $\ce{CaO + H2O}\xlongequal{}\ce{Ca(OH)2}$
 
 实验现象：放热
 
-**32.甲烷燃烧**	<span data-type="text" style="color: var(--b3-font-color5);">（手动水印-微信公众号：每日一化学）</span>
+**32.甲烷燃烧**	
 
 $\ce{CH4 + 2O2}\xlongequal{点燃}\ce{CO2 + 2H2O}$
 
@@ -272,7 +273,7 @@ $\ce{Mg + 2HCl}\xlongequal{}\ce{MgCl2 + H2 ^}$
 
 实验现象：有大量气泡产生
 
-**36.铝与稀盐酸**	<span data-type="text" style="color: var(--b3-font-color5);">（手动水印-微信公众号：每日一化学）</span>
+**36.铝与稀盐酸**	
 
 $\ce{2Al + 6HCl}\xlongequal{}\ce{2AlCl3 + 3H2 ^}$
 
@@ -388,7 +389,7 @@ $\ce{2HCl + Na2CO3}\xlongequal{}\ce{2NaCl + H2O + CO2 ^}$
 
 实验现象：有大量气泡产生
 
-**51.稀盐酸与硝酸银溶液**	<span data-type="text" style="color: var(--b3-font-color5);">（手动水印-微信公众号：每日一化学）</span>
+**51.稀盐酸与硝酸银溶液**	
 
 $\ce{HCl + AgNO3}\xlongequal{}\ce{AgCl v + HNO3}$
 
@@ -426,7 +427,7 @@ $\ce{2NaOH + CuSO4}\xlongequal{}\ce{Na2SO4 + Cu(OH)2 v}$
 
 实验现象：有蓝色絮状沉淀生成
 
-**56.氢氧化钠溶液与氯化铁溶液**	<span data-type="text" style="color: var(--b3-font-color5);">（手动水印-微信公众号：每日一化学）</span>
+**56.氢氧化钠溶液与氯化铁溶液**	
 
 $\ce{3NaOH + FeCl3}\xlongequal{}\ce{3NaCl + Fe(OH)3 v}$
 
@@ -466,7 +467,7 @@ $\ce{HCl + NaHCO3}\xlongequal{}\ce{NaCl + H2O + CO2 ^}$
 
 实验现象：有大量气泡产生
 
-**61.澄清石灰水与碳酸钠溶液**	<span data-type="text" style="color: var(--b3-font-color5);">（手动水印-微信公众号：每日一化学）</span>
+**61.澄清石灰水与碳酸钠溶液**	
 
 $\ce{Ca(OH)2 + Na2CO3}\xlongequal{}\ce{CaCO3 v + 2NaOH}$
 
