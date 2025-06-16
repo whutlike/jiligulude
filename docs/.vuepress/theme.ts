@@ -70,17 +70,19 @@ export default hopeTheme(
     blog: {
       articleInfo: ["Date", "PageView", "Category", "Tag", "ReadingTime"],
       name: "氢气不纯",
+      // 头像
       avatar: "/avatar_self.webp",
       description: "氢气不纯，化学不纯，人生不纯",
+      // 自我介绍
       intro: "/intro.html",
       medias: {
-        GitHub: "https://github.com/rockbenben",
-        Zhihu: "https://www.zhihu.com/people/qingwhat",
-        少数派: { icon: "https://newzone.top/icons/sspai.svg", link: "https://sspai.com/u/zqj05i4v/posts" },
-        Wechat: "https://img.newzone.top/wechat.svg",
-        Email: "mailto:learndata@newzone.top",
-        Discord: "https://discord.gg/PZTQfJ4GjX",
-        RSS: "/rss.xml",
+        // GitHub: "https://github.com/rockbenben",
+        // Zhihu: "https://www.zhihu.com/people/qingwhat",
+        // 少数派: { icon: "https://newzone.top/icons/sspai.svg", link: "https://sspai.com/u/zqj05i4v/posts" },
+        // Wechat: "https://img.newzone.top/wechat.svg",
+        // Email: "whutlike@163.com",
+        // Discord: "https://discord.gg/PZTQfJ4GjX",
+        // RSS: "/rss.xml",
       },
     },
 
