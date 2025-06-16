@@ -12,7 +12,7 @@ export default defineUserConfig({
   // 网站语言，默认为中文
   lang: "zh-CN",
   // 网站标题
-  title: "氢气不纯",
+  title: "每日一化学",
   // 网站描述
   description: "初中化学知识分享",
 

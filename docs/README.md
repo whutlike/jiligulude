@@ -1,6 +1,7 @@
 ---
 article: false
 title: 每日一化学使用介绍
+author: 氢气不纯
 icon: fa6-solid:book-open-reader
 ---
 
@@ -16,7 +17,7 @@ icon: fa6-solid:book-open-reader
 
 [doc.edaychem.cn](https://doc.edaychem.cn/)（访问速度更快）
 
-[huaxue.so.kg](https://huaxue.so.kg/)
+[huaxue.so.kg](https://huaxue.so.kg/)（需要耐心等待）
 
 ## 资源介绍
 

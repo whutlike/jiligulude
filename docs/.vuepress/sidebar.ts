@@ -5,9 +5,9 @@ import { sidebar } from "vuepress-theme-hope";
 export default sidebar({
   "": [
     // 第一个页面
-    "/DailyRoutine",
+    "/markdown",
     // 第二个页面
-    "/Fitness",
+    "/plan",
     // 读书笔记架构更换到 docsify，不能使用相对链接
     { text: "读书笔记", icon: "fa6-brands:readme", link: "https://huaxue.so.kg/reading/" },
     // 指定显示页面
