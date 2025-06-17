@@ -12,9 +12,17 @@ export default sidebar({
     { text: "读书笔记", icon: "fa6-brands:readme", link: "https://huaxue.so.kg/reading/" },
     // 指定显示页面
     {
-      text: "🧰 基础知识",
+      text: "🧰 背记手册",
       icon: "",
-      prefix: "/knowledge/",
+      prefix: "/handbook/",
+      link: "",
+      collapsible: true,  
+      children: "structure",
+    },
+    {
+      text: "🧰 基础知识汇总",
+      icon: "",
+      prefix: "/knowledges/",
       link: "",
       collapsible: true,  
       children: "structure",
@@ -80,7 +88,7 @@ export default sidebar({
     },
   ],
   // 专题区（独立侧边栏）
-  "/knowledge/": "structure",
+  "/knowledges/": "structure",
   // 如果你不想使用默认侧边栏，可以按照路径自行设置。但需要去掉下方配置中的注释，以避免博客和时间轴出现异常。_posts 目录可以不存在。
   /*"/_posts/": [
     {
