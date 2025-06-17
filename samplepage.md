@@ -1,7 +1,7 @@
 ---
 # 文章标题
 title: 页面配置样例
-# 页面图标，默认为 [Fontawesome 图标](https://fontawesome.com/search?m=free&o=r)
+# 页面图标，默认为 [iconify 图标](https://icon-sets.iconify.design/)
 # 假设希望设定图标为 <i class="fa-solid fa-hashtag"></i>，则是 icon: fa-solid fa-hashtag
 icon: fa-solid fa-hashtag
 # 侧边栏的顺序

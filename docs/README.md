@@ -11,7 +11,7 @@ icon: fa6-solid:book-open-reader
 
 本页面根据github开源项目[LearnData](https://github.com/rockbenben/LearnData)修改
 
-如果喜欢此界面，你也可以根据教程，搭建自己的知识库
+如果喜欢此界面，你也可以根据教程，搭建自己的知识库 [vuepress](https://vuepress.github.io/zh/)
 
 这是一个用vuepress搭建的静态页面，用GitHub pages部署，域名注册于`https://sokg.net/`，纯免费方案，可以长期访问，唯一的缺点是站点访问较慢，不是特别稳定
 
