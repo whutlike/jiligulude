@@ -37,7 +37,7 @@ star: true
 # 你可以自定义页脚
 footer: 这是测试显示的页脚
 # 你可以自定义版权信息
-copyright: write by 每日一化学
+copyright: write by 氢气不纯
 ---
 
 页面内容，支持 Markdown 和 HTML 语言。

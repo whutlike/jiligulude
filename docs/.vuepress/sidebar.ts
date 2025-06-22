@@ -1,7 +1,9 @@
 import { sidebar } from "vuepress-theme-hope";
 
-// 图标：https://theme-hope.vuejs.press/zh/guide/interface/icon.html#%E8%AE%BE%E7%BD%AE%E5%9B%BE%E6%A0%87
+// 图标代码：https://theme-hope.vuejs.press/zh/guide/interface/icon.html#%E8%AE%BE%E7%BD%AE%E5%9B%BE%E6%A0%87
 // https://fontawesome.com/search?m=free&o=r
+// https://icon-sets.iconify.design/
+// 直接复制的图标：https://emojipedia.org/
 export default sidebar({
   "": [
     // 第一个页面
@@ -12,7 +14,7 @@ export default sidebar({
     { text: "读书笔记", icon: "fa6-brands:readme", link: "https://huaxue.so.kg/reading/" },
     // 指定显示页面
     {
-      text: "🧰 背记手册",
+      text: "📖 背记手册",
       icon: "",
       prefix: "/handbook/",
       link: "",
@@ -20,7 +22,7 @@ export default sidebar({
       children: "structure",
     },
     {
-      text: "🧰 基础知识汇总",
+      text: "💯 基础知识汇总",
       icon: "",
       prefix: "/knowledges/",
       link: "",
@@ -28,7 +30,7 @@ export default sidebar({
       children: "structure",
     },
     {
-      text: "🌐 重难点突破",
+      text: "🚀 重难点突破",
       icon: "",
       prefix: "/Keypoints/",
       link: "",
@@ -36,7 +38,7 @@ export default sidebar({
       children: "structure",
     },
     {
-      text: "🏗️ 实验突破",
+      text: "🧪 实验突破",
       icon: "",
       prefix: "/Experimental/",
       link: "",
@@ -44,28 +46,28 @@ export default sidebar({
       children:"structure",
     },
     {
-      text: "🔡 知识点过关训练",
+      text: "🎢 知识点过关训练",
       icon: "",
       prefix: "/quiz/",
       collapsible: true,
       children: "structure",
     },
     {
-      text: "🛖 一轮复习",
+      text: "1️⃣ 一轮复习",
       icon: "",
       prefix: "/review1/",
       collapsible: true,
       children: "structure",
     },
     {
-      text: "🛖 二轮复习",
+      text: "2️⃣ 二轮复习",
       icon: "",
       prefix: "/review2/",
       collapsible: true,
       children: "structure",
     },
     {
-      text: "🛖 三轮复习",
+      text: "3️⃣ 三轮复习",
       icon: "",
       prefix: "/review3/",
       collapsible: true,
@@ -88,7 +90,7 @@ export default sidebar({
     },
   ],
   // 专题区（独立侧边栏）
-  "/knowledges/": "structure",
+  // "/knowledges/": "structure",
   // 如果你不想使用默认侧边栏，可以按照路径自行设置。但需要去掉下方配置中的注释，以避免博客和时间轴出现异常。_posts 目录可以不存在。
   /*"/_posts/": [
     {
