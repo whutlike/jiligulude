@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://hauxue.so.kg/atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
   <id>https://hauxue.so.kg/</id>
-  <title>每日一化学</title>
+  <title>氢气不纯</title>
   <subtitle>初中化学知识分享</subtitle>
   <icon>https://hauxue.so.kg/favicon.ico</icon>
-  <updated>2025-06-22T09:09:36.440Z</updated>
+  <updated>2025-06-22T09:25:59.386Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://hauxue.so.kg/atom.xml"/>
   <link rel="alternate" href="https://hauxue.so.kg/"/>
