@@ -19,7 +19,7 @@ icon: fa6-solid:book-open-reader
 
 所以可以通过以下两个域名访问此网站
 
-[doc.edaychem.cn](https://doc.edaychem.cn/)（访问速度更快）
+[doc.edaychem.cn](https://doc.edaychem.cn/)（访问速度更快，更新较慢）
 
 [huaxue.so.kg](https://huaxue.so.kg/)（需要耐心等待）
 
