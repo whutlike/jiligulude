@@ -8,7 +8,7 @@ export default navbar([
   { text: "博客", icon: "fa6-solid:blog", link: "/blog" },
   // 第二个标签
   {
-    text: "应用",
+    text: "留空",
     icon: "fa6-solid:bars-staggered",
     prefix: "/",
     children: [
@@ -34,27 +34,28 @@ export default navbar([
   },
   // 第三个标签
   {
-    text: "生活",
+    text: "留空",
     icon: "fa6-solid:bed-pulse",
     prefix: "/review1/",
     children: ["chemicalequation", "Coupon"],
   },
   // 第四个标签
   {
-    text: "工具",
-    icon: "fa6-solid:toolbox",
+    text: "下载",
+    icon: "fa6-solid:download",
     children: [
       {
-        text: "ChatGPT SC",
+        text: "原创资料",
         icon: "fa6-solid:bolt",
-        link: "https://www.aishort.top/",
+        link: "https://scienlee.ysepan.com/",
       },
-      { text: "IMGPrompt", icon: "fa6-solid:image", link: "https://prompt.newzone.top/" },
-      { text: "多语言翻译", icon: "fa6-solid:language", link: "https://tools.newzone.top/json-translate" },
-      {
-        text: "工具收藏",
-        icon: "fa6-solid:bars",
-        link: "https://nav.newzone.top/",
+      { text: "网络资料",
+        icon: "fa6-solid:cloud-arrow-down",
+        link: "https://pan.quark.cn/s/707018aa1155/",
+      },
+      { text: "资料分类目录", 
+        icon: "fa6-solid:kiwi-bird", 
+        link: "https://www.yuque.com/edaychem/dxf4ev/hkrucv9l8wp08gmn?singleDoc# 《资料下载数据库》",
       },
     ],
   },
