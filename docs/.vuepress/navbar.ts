@@ -47,11 +47,11 @@ export default navbar([
       {
         text: "原创资料",
         icon: "fa6-solid:bolt",
-        link: "https://scienlee.ysepan.com/",
+        link: "http://scienlee.ysepan.com/",
       },
       { text: "网络资料",
         icon: "fa6-solid:cloud-arrow-down",
-        link: "https://pan.quark.cn/s/707018aa1155/",
+        link: "https://pan.quark.cn/s/707018aa1155",
       },
       { text: "资料分类目录", 
         icon: "fa6-solid:kiwi-bird", 
