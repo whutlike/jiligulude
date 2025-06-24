@@ -13,21 +13,9 @@ export default navbar([
     prefix: "/",
     children: [
       "markdown",
-      {
-        text: "化学方程式合集",
-        icon: "fa6-solid:hand-point-right",
-        link: "knowledges/化学方程式合集",
-      },
-      {
-        text: "化学方程式的配平",
-        icon: "fa6-solid:equals",
-        link: "Keypoints/化学方程式的配平",
-      },
-      {
-        text: "二轮复习知识点",
-        icon: "streamline-logos:firebase-logo",
-        link: "review2/二轮复习知识点",
-      },
+      "knowledges/化学方程式合集",
+      "keypoints/化学方程式的配平",
+      "review2/二轮复习知识点",
     ],
   },
   // 第三个标签
@@ -37,7 +25,7 @@ export default navbar([
     children: [
       {
         text: "思维导图",
-        icon: "",
+        icon: "fa6-solid:sitemap",
         link: "https://markmap.js.org/repl",
       },
       {
