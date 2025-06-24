@@ -19,7 +19,7 @@ export default hopeTheme(
 
     // copyright 默认为 Copyright © <作者>
     copyright: `
-  版权声明：支持在线查看，禁止任何形式的转载
+  版权声明：支持在线查看，转载请注明“本内容来源于网站:huaxue.so.kg”
   `,
     displayFooter: true,
     // 页脚，支持使用 HTMLString 以显示备案信息等

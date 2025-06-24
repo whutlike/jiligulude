@@ -32,7 +32,7 @@ export default sidebar({
     {
       text: "🚀 重难点突破",
       icon: "",
-      prefix: "/Keypoints/",
+      prefix: "/keypoints/",
       link: "",
       collapsible: true,
       children: "structure",
@@ -40,7 +40,7 @@ export default sidebar({
     {
       text: "🧪 实验突破",
       icon: "",
-      prefix: "/Experimental/",
+      prefix: "/experimental/",
       link: "",
       collapsible: true,
       children:"structure",
@@ -92,7 +92,7 @@ export default sidebar({
   // 专题区（独立侧边栏）
   // "/knowledges/": "structure",
   // 如果你不想使用默认侧边栏，可以按照路径自行设置。但需要去掉下方配置中的注释，以避免博客和时间轴出现异常。_posts 目录可以不存在。
-  /*"/_posts/": [
+  "/_posts/": [
     {
       text: "博客文章",
       icon: "fa6-solid:feather-pointed",
@@ -101,5 +101,5 @@ export default sidebar({
       collapsible: true,
       children: "structure",
     },
-  ], */
+  ], 
 });

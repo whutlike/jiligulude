@@ -11,17 +11,15 @@ icon: fa6-solid:book-open-reader
 
 本页面根据github开源项目[LearnData](https://github.com/rockbenben/LearnData)修改
 
-如果喜欢此界面，你也可以根据教程，搭建自己的知识库 [vuepress](https://vuepress.github.io/zh/)
+如果喜欢此界面，你可以根据教程，搭建自己的知识库 [vuepress](https://vuepress.github.io/zh/)
 
-这是一个用vuepress搭建的静态页面，用GitHub pages部署，域名注册于`https://sokg.net/`，纯免费方案，可以长期访问，唯一的缺点是站点访问较慢，不是特别稳定
+此方案0成本，可以长期访问 
 
-于是用`github actions`推送到自己的服务器，以保证能流畅的访问，但是在推送过程中经常报错，现在未能解决，所以更新会有延迟
+你可以通过以下两个域名访问本网站
 
-你可以通过以下两个域名访问此网站
+[doc.edaychem.cn](https://doc.edaychem.cn/)（速度更快，更新较慢）
 
-[doc.edaychem.cn](https://doc.edaychem.cn/)（访问速度更快，更新较慢）
-
-[huaxue.so.kg](https://huaxue.so.kg/)（需要耐心等待）
+[huaxue.so.kg](https://huaxue.so.kg/)（请耐心等待）
 
 ## 布局
 
@@ -39,3 +37,12 @@ icon: fa6-solid:book-open-reader
 2. 帮忙纠错，如果发现文中出现错误，可联系微信`edaychem`修改，或者关注微信公众号`每日一化学`留言
 3. 如果你有好的资源，可联系上传到本网站，供大家使用，避免版权争议，需要原创资料格式为`md文档`
 4. 你认为网站应该新增什么内容，也可以提建议
+5. 其他
+
+## 版权说明
+
+本网站内容，均来自于我的微信公众号：`每日一化学`
+
+你可以放心的使用本网站的所有内容，但不得用于商业用途
+
+你可以**转载**，但需要注明来源，请加上`本内容来源于网站:huaxue.so.kg`或`本内容来源于微信公众号:每日一化学`
