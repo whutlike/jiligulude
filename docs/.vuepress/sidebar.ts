@@ -46,9 +46,16 @@ export default sidebar({
       children:"structure",
     },
     {
-      text: "🎢 知识点过关训练",
+      text: "💢 知识点过关训练",
       icon: "",
       prefix: "/quiz/",
+      collapsible: true,
+      children: "structure",
+    },
+        {
+      text: "➿ 思维导图",
+      icon: "",
+      prefix: "/markmap/",
       collapsible: true,
       children: "structure",
     },
