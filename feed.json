@@ -20,6 +20,32 @@
       ]
     },
     {
+      "title": "博客文章样例 2",
+      "url": "https://hauxue.so.kg/posts/blog3.html",
+      "id": "https://hauxue.so.kg/posts/blog3.html",
+      "summary": "博客文章内容，支持 Markdown 和 HTML 语言。3",
+      "content_html": "<p>博客文章内容，支持 Markdown 和 HTML 语言。3</p>\n",
+      "date_published": "2024-03-02T00:00:00.000Z",
+      "date_modified": "2025-06-25T14:53:52.000Z",
+      "authors": [],
+      "tags": [
+        "工具"
+      ]
+    },
+    {
+      "title": "博客文章样例 2",
+      "url": "https://hauxue.so.kg/posts/blog4.html",
+      "id": "https://hauxue.so.kg/posts/blog4.html",
+      "summary": "博客文章内容，支持 Markdown 和 HTML 语言。4",
+      "content_html": "<p>博客文章内容，支持 Markdown 和 HTML 语言。4</p>\n",
+      "date_published": "2024-03-02T00:00:00.000Z",
+      "date_modified": "2025-06-25T14:53:52.000Z",
+      "authors": [],
+      "tags": [
+        "工具"
+      ]
+    },
+    {
       "title": "博客文章样例",
       "url": "https://hauxue.so.kg/posts/blog1.html",
       "id": "https://hauxue.so.kg/posts/blog1.html",

@@ -4,7 +4,7 @@
   <title>氢气不纯</title>
   <subtitle>初中化学知识分享</subtitle>
   <icon>https://hauxue.so.kg/favicon.ico</icon>
-  <updated>2025-06-25T09:51:54.397Z</updated>
+  <updated>2025-06-25T14:55:22.830Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://hauxue.so.kg/atom.xml"/>
   <link rel="alternate" href="https://hauxue.so.kg/"/>
@@ -18,6 +18,30 @@
     <summary type="html"><![CDATA[<p>博客文章内容，支持 Markdown 和 HTML 语言。</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>博客文章内容，支持 Markdown 和 HTML 语言。</p>
+]]></content>
+    <category term="工具"/>
+    <published>2024-03-02T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">博客文章样例 2</title>
+    <id>https://hauxue.so.kg/posts/blog3.html</id>
+    <link href="https://hauxue.so.kg/posts/blog3.html"/>
+    <updated>2025-06-25T14:53:52.000Z</updated>
+    <summary type="html"><![CDATA[<p>博客文章内容，支持 Markdown 和 HTML 语言。3</p>
+]]></summary>
+    <content type="html"><![CDATA[<p>博客文章内容，支持 Markdown 和 HTML 语言。3</p>
+]]></content>
+    <category term="工具"/>
+    <published>2024-03-02T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">博客文章样例 2</title>
+    <id>https://hauxue.so.kg/posts/blog4.html</id>
+    <link href="https://hauxue.so.kg/posts/blog4.html"/>
+    <updated>2025-06-25T14:53:52.000Z</updated>
+    <summary type="html"><![CDATA[<p>博客文章内容，支持 Markdown 和 HTML 语言。4</p>
+]]></summary>
+    <content type="html"><![CDATA[<p>博客文章内容，支持 Markdown 和 HTML 语言。4</p>
 ]]></content>
     <category term="工具"/>
     <published>2024-03-02T00:00:00.000Z</published>

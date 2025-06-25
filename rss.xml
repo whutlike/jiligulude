@@ -6,8 +6,8 @@
     <link>https://hauxue.so.kg/</link>
     <description>初中化学知识分享</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 25 Jun 2025 09:51:54 GMT</pubDate>
-    <lastBuildDate>Wed, 25 Jun 2025 09:51:54 GMT</lastBuildDate>
+    <pubDate>Wed, 25 Jun 2025 14:55:22 GMT</pubDate>
+    <lastBuildDate>Wed, 25 Jun 2025 14:55:22 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>工具</category>
@@ -21,6 +21,28 @@
       <category>工具</category>
       <pubDate>Sat, 02 Mar 2024 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>博客文章内容，支持 Markdown 和 HTML 语言。</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>博客文章样例 2</title>
+      <link>https://hauxue.so.kg/posts/blog3.html</link>
+      <guid>https://hauxue.so.kg/posts/blog3.html</guid>
+      <source url="https://hauxue.so.kg/rss.xml">博客文章样例 2</source>
+      <description>博客文章内容，支持 Markdown 和 HTML 语言。3</description>
+      <category>工具</category>
+      <pubDate>Sat, 02 Mar 2024 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>博客文章内容，支持 Markdown 和 HTML 语言。3</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>博客文章样例 2</title>
+      <link>https://hauxue.so.kg/posts/blog4.html</link>
+      <guid>https://hauxue.so.kg/posts/blog4.html</guid>
+      <source url="https://hauxue.so.kg/rss.xml">博客文章样例 2</source>
+      <description>博客文章内容，支持 Markdown 和 HTML 语言。4</description>
+      <category>工具</category>
+      <pubDate>Sat, 02 Mar 2024 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>博客文章内容，支持 Markdown 和 HTML 语言。4</p>
 ]]></content:encoded>
     </item>
     <item>
