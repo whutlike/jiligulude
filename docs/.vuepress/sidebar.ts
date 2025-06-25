@@ -52,13 +52,6 @@ export default sidebar({
       collapsible: true,
       children: "structure",
     },
-        {
-      text: "➿ 思维导图",
-      icon: "",
-      prefix: "/markmap/",
-      collapsible: true,
-      children: "structure",
-    },
     {
       text: "1️⃣ 一轮复习",
       icon: "",
