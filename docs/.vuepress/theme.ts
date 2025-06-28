@@ -126,7 +126,7 @@ export default hopeTheme(
       comment: {     
         // 在本地运行 `pnpm docs:dev` 并使用非 localhost 域名时，容易出现 403 错误，移除本部分即可解决
         provider: "Waline",
-        serverURL: "https://pageview-jhzd8sbb0-scienlees-projects.vercel.app/",
+        serverURL: "https://waline.edaychem.cn",
         reaction: [
           "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-y/twemoji/13.1.0/72x72/1f44d.png",
           "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-y/twemoji/13.1.0/72x72/1f44f.png",

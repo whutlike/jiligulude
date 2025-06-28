@@ -7,7 +7,7 @@ icon: fa6-solid:book-open-reader
 
 ## 介绍
 
-欢迎来到微信公众号：每日一化学的**知识库**
+欢迎来到微信公众号`每日一化学的`**知识库**
 
 本页面根据github开源项目[LearnData](https://github.com/rockbenben/LearnData)修改
 
