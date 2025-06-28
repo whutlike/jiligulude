@@ -7,9 +7,9 @@ import { sidebar } from "vuepress-theme-hope";
 export default sidebar({
   "": [
     // 第一个页面
-    "/markdown",
-    // 第二个页面
     "/plan",
+    // 第二个页面
+    "/markdown",
     // 读书笔记架构更换到 docsify，不能使用相对链接
     // { text: "读书笔记", icon: "fa6-brands:readme", link: "https://huaxue.so.kg/reading/" },
     // 指定显示页面
