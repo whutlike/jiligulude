@@ -4,12 +4,11 @@
   <title>氢气不纯</title>
   <subtitle>初中化学知识分享</subtitle>
   <icon>https://hauxue.so.kg/favicon.ico</icon>
-  <updated>2025-06-26T08:29:03.590Z</updated>
+  <updated>2025-06-28T09:31:46.105Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://hauxue.so.kg/atom.xml"/>
   <link rel="alternate" href="https://hauxue.so.kg/"/>
   <category term="随笔"/>
-  <category term="工具"/>
   <contributor>
     <name>氢气不纯</name>
   </contributor>
@@ -199,41 +198,5 @@ M0 50 h400000 v40H0z m0 194h40000v40H0z"></path></svg></span></span></span></spa
     </contributor>
     <published>2025-06-22T00:00:00.000Z</published>
     <rights>Copyright by 氢气不纯</rights>
-  </entry>
-  <entry>
-    <title type="text">博客文章样例 2</title>
-    <id>https://hauxue.so.kg/posts/blog2.html</id>
-    <link href="https://hauxue.so.kg/posts/blog2.html"/>
-    <updated>2025-06-17T02:22:03.000Z</updated>
-    <summary type="html"><![CDATA[<p>博客文章内容，支持 Markdown 和 HTML 语言。</p>
-]]></summary>
-    <content type="html"><![CDATA[<p>博客文章内容，支持 Markdown 和 HTML 语言。</p>
-]]></content>
-    <category term="工具"/>
-    <published>2024-03-02T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">博客文章样例 2</title>
-    <id>https://hauxue.so.kg/posts/blog3.html</id>
-    <link href="https://hauxue.so.kg/posts/blog3.html"/>
-    <updated>2025-06-25T14:53:52.000Z</updated>
-    <summary type="html"><![CDATA[<p>博客文章内容，支持 Markdown 和 HTML 语言。3</p>
-]]></summary>
-    <content type="html"><![CDATA[<p>博客文章内容，支持 Markdown 和 HTML 语言。3</p>
-]]></content>
-    <category term="工具"/>
-    <published>2024-03-02T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">博客文章样例 2</title>
-    <id>https://hauxue.so.kg/posts/blog4.html</id>
-    <link href="https://hauxue.so.kg/posts/blog4.html"/>
-    <updated>2025-06-25T14:53:52.000Z</updated>
-    <summary type="html"><![CDATA[<p>博客文章内容，支持 Markdown 和 HTML 语言。4</p>
-]]></summary>
-    <content type="html"><![CDATA[<p>博客文章内容，支持 Markdown 和 HTML 语言。4</p>
-]]></content>
-    <category term="工具"/>
-    <published>2024-03-02T00:00:00.000Z</published>
   </entry>
 </feed>

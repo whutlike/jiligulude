@@ -6,12 +6,11 @@
     <link>https://hauxue.so.kg/</link>
     <description>初中化学知识分享</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 26 Jun 2025 08:29:03 GMT</pubDate>
-    <lastBuildDate>Thu, 26 Jun 2025 08:29:03 GMT</lastBuildDate>
+    <pubDate>Sat, 28 Jun 2025 09:31:46 GMT</pubDate>
+    <lastBuildDate>Sat, 28 Jun 2025 09:31:46 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>随笔</category>
-    <category>工具</category>
     <item>
       <title>信息茧房</title>
       <link>https://hauxue.so.kg/posts/%E4%BF%A1%E6%81%AF%E8%8C%A7%E6%88%BF.html</link>
@@ -174,39 +173,6 @@ M0 50 h400000 v40H0z m0 194h40000v40H0z"></path></svg></span></span></span></spa
 <p>实际结果会出现三种情况，需对比参与反应氧气的质量和逸散到空气中氧化镁的质量分析</p>
 ]]></content:encoded>
       <enclosure url="https://img.edaychem.cn//img/2024120601.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>博客文章样例 2</title>
-      <link>https://hauxue.so.kg/posts/blog2.html</link>
-      <guid>https://hauxue.so.kg/posts/blog2.html</guid>
-      <source url="https://hauxue.so.kg/rss.xml">博客文章样例 2</source>
-      <description>博客文章内容，支持 Markdown 和 HTML 语言。</description>
-      <category>工具</category>
-      <pubDate>Sat, 02 Mar 2024 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<p>博客文章内容，支持 Markdown 和 HTML 语言。</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>博客文章样例 2</title>
-      <link>https://hauxue.so.kg/posts/blog3.html</link>
-      <guid>https://hauxue.so.kg/posts/blog3.html</guid>
-      <source url="https://hauxue.so.kg/rss.xml">博客文章样例 2</source>
-      <description>博客文章内容，支持 Markdown 和 HTML 语言。3</description>
-      <category>工具</category>
-      <pubDate>Sat, 02 Mar 2024 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<p>博客文章内容，支持 Markdown 和 HTML 语言。3</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>博客文章样例 2</title>
-      <link>https://hauxue.so.kg/posts/blog4.html</link>
-      <guid>https://hauxue.so.kg/posts/blog4.html</guid>
-      <source url="https://hauxue.so.kg/rss.xml">博客文章样例 2</source>
-      <description>博客文章内容，支持 Markdown 和 HTML 语言。4</description>
-      <category>工具</category>
-      <pubDate>Sat, 02 Mar 2024 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<p>博客文章内容，支持 Markdown 和 HTML 语言。4</p>
-]]></content:encoded>
     </item>
   </channel>
 </rss>
