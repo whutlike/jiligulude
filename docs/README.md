@@ -7,7 +7,7 @@ icon: fa6-solid:book-open-reader
 
 ## 介绍
 
-欢迎来到每日一化学的**个人知识库**
+欢迎来到微信公众号：每日一化学的**知识库**
 
 本页面根据github开源项目[LearnData](https://github.com/rockbenben/LearnData)修改
 
@@ -45,4 +45,4 @@ icon: fa6-solid:book-open-reader
 
 你可以放心的使用本网站的所有内容，但不得用于商业用途
 
-你可以**转载**，但需要注明来源，请加上`本内容来源于网站:huaxue.so.kg`或`本内容来源于微信公众号:每日一化学`
+你可以**转载**，但需要注明来源，请加上`内容来源于网站:huaxue.so.kg`或`内容来源于微信公众号:每日一化学`

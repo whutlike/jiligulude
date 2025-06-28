@@ -19,7 +19,7 @@ export default hopeTheme(
 
     // copyright 默认为 Copyright © <作者>
     copyright: `
-  版权声明：支持在线查看，转载请注明“本内容来源于网站:huaxue.so.kg”
+  版权声明：支持在线查看，转载请注明“内容来源于微信公众号：每日一化学”
   `,
     displayFooter: true,
     // 页脚，支持使用 HTMLString 以显示备案信息等
@@ -64,11 +64,11 @@ export default hopeTheme(
     // sidebarSorter: ['readme', 'order', 'title'],
 
     // 页面布局 Frontmatter 配置：https://theme-hope.vuejs.press/zh/config/frontmatter/layout.html#pageinfo
-    pageInfo: ["Category", "Tag", "Word", "ReadingTime", "PageView"],
+    pageInfo: ["Author","Category", "Tag", "Word", "ReadingTime", "PageView"],
 
     // 主题功能选项：https://theme-hope.vuejs.press/zh/config/theme/feature.html
     blog: {
-      articleInfo: ["Date", "PageView", "Category", "Tag", "ReadingTime"],
+      articleInfo: ["Author","Date", "PageView", "Category", "Tag", "ReadingTime"],
       name: "氢气不纯",
       // 头像
       avatar: "/avatar_self.webp",
@@ -123,40 +123,38 @@ export default hopeTheme(
       },
 
       // 评论配置（仅做样例，记得更换）
-      // comment: {
-      //   /*
-      // // 在本地运行 `pnpm docs:dev` 并使用非 localhost 域名时，容易出现 403 错误，移除本部分即可解决
-      // provider: "Waline",
-      // serverURL: "https://waline.newzone.top",
-      // reaction: [
-      //   "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-y/twemoji/13.1.0/72x72/1f44d.png",
-      //   "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-y/twemoji/13.1.0/72x72/1f44f.png",
-      //   "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-y/twemoji/13.1.0/72x72/1f60e.png",
-      //   "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-y/twemoji/13.1.0/72x72/1f602.png",
-      //   "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-y/twemoji/13.1.0/72x72/1f635-200d-1f4ab.png",
-      // ],
-      // // 部署 Waline：https://waline.js.org/guide/get-started.html
+      comment: {     
+      // 在本地运行 `pnpm docs:dev` 并使用非 localhost 域名时，容易出现 403 错误，移除本部分即可解决
+      provider: "Waline",
+      serverURL: "https://pageview-jhzd8sbb0-scienlees-projects.vercel.app/",
+      reaction: [
+        "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-y/twemoji/13.1.0/72x72/1f44d.png",
+        "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-y/twemoji/13.1.0/72x72/1f44f.png",
+        "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-y/twemoji/13.1.0/72x72/1f60e.png",
+        "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-y/twemoji/13.1.0/72x72/1f602.png",
+        "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-y/twemoji/13.1.0/72x72/1f635-200d-1f4ab.png",
+      ],
+      // 部署 Waline：https://waline.js.org/guide/get-started.html
       pageview: true, // 浏览量统计
-      // locales: {
-      //   "/": {
-      //     // 表情互动提示文字
-      //     reactionTitle: "已到达文章底部，欢迎留言、表情互动~",
-      //     reaction0: "赞一个",
-      //     reaction1: "支持下",
-      //     reaction2: "有点酷",
-      //     reaction3: "啥玩意",
-      //     reaction4: "看不懂",
-      //     // Waline 等级标签
-      //     admin: "盛年不重来，一日难再晨",
-      //     level0: "锻体",
-      //     level1: "炼气",
-      //     level2: "筑基",
-      //     level3: "金丹",
-      //     level4: "元婴",
-      //     level5: "化神",
-      //   },
-      // },
-      // */
+      locales: {
+        "/": {
+          // 表情互动提示文字
+          reactionTitle: "已到达文章底部，欢迎留言、表情互动~",
+          reaction0: "赞一个",
+          reaction1: "支持下",
+          reaction2: "有点酷",
+          reaction3: "啥玩意",
+          reaction4: "看不懂",
+          // Waline 等级标签
+          admin: "盛年不重来，一日难再晨",
+          level0: "锻体",
+          level1: "炼气",
+          level2: "筑基",
+          level3: "金丹",
+          level4: "元婴",
+          level5: "化神",
+        },
+      },
 
       //   // Giscus
       //   provider: "Giscus",

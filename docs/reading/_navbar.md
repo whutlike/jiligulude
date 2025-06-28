@@ -1,3 +1,2 @@
-- [🚀 每日一化学](https://doc.edaychem.cn/)
+- [🚀 氢气不纯](https://doc.edaychem.cn/)
 - [📝 博客文章](http://doc.edaychem.cn/blog.html)
-- [🔨 工具收藏](https://nav.newzone.top/)

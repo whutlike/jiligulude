@@ -1,6 +1,6 @@
 ---
 article: false
-title: markdown
+title: markdown语法
 icon: fa6-solid:check-to-slot
 ---
 

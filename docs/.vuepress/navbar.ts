@@ -31,7 +31,7 @@ export default navbar([
       {
         text: "化学知识刷刷刷",
         icon: "fa6-solid:question",
-        link: "https://quiz.edaychem.com/",
+        link: "https://quiz.edaychem.cn/",
       },
       {
         text: "",
