@@ -62,5 +62,8 @@ jobs:
           password: ${{ secrets.ftp_password }}
           port: ${{ secrets.ftp_port }} # 建议更改默认的 21 端口
           timeout: 600000
-          dry-run: true # 测试运行，确保没有错误
+          
+      - name: Dry-run deployment
+        run: |
+          npx ftp-deploy --dry-run --config ./deploy-config.json
       
