@@ -55,6 +55,7 @@ jobs:
       - name: 📂 Sync files
         if: env.FTP_HOST != ''
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        dry-run: true
         with:
           local-dir: docs/.vuepress/dist/
           server: ${{ secrets.ftp_host }}
