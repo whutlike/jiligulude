@@ -8,7 +8,7 @@ export default hopeTheme(
     hostname: "https://hauxue.so.kg",
     author: {
       name: "氢气不纯",
-      url: "https://huaxue.so.kg",
+      url: "https://doc.edaychem.cn",
     },
 
     favicon: "/favicon.ico",
