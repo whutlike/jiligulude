@@ -72,7 +72,7 @@ export default hopeTheme(
       name: "氢气不纯",
       // 头像
       avatar: "/avatar_self.webp",
-      description: "氢气不纯，化学不纯，人生不纯",
+      description: "我爱化学，化学使我快乐",
       // 自我介绍
       intro: "/intro.html",
       medias: {
@@ -106,7 +106,7 @@ export default hopeTheme(
       imgSize: true, // 启用图片大小
       hint: true, // 启用提示容器，默认启用
       alert: true, // 启用 GFM 警告
-      // markmap: true, // 启用思维导图
+      markmap: true, // 启用思维导图
     },
 
     plugins: {

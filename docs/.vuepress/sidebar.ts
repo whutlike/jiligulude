@@ -14,6 +14,22 @@ export default sidebar({
     { text: "读书笔记", icon: "fa6-brands:readme", link: "https://doc.edaychem.cn/reading/" },
     // 指定显示页面
     {
+      text: "🌱 学习经验",
+      icon: "",
+      prefix: "/experiences/",
+      link: "",
+      collapsible: true,  
+      children: "structure",
+    }, 
+    {
+      text: "🍀 我爱预习",
+      icon: "",
+      prefix: "/preview/",
+      link: "",
+      collapsible: true,  
+      children: "structure",
+    }, 
+    {
       text: "📖 背记手册",
       icon: "",
       prefix: "/handbook/",
@@ -27,6 +43,13 @@ export default sidebar({
       prefix: "/knowledges/",
       link: "",
       collapsible: true,  
+      children: "structure",
+    },
+    {
+      text: "💢 基础知识过关",
+      icon: "",
+      prefix: "/quiz/",
+      collapsible: true,
       children: "structure",
     },
     {
@@ -44,13 +67,6 @@ export default sidebar({
       link: "",
       collapsible: true,
       children:"structure",
-    },
-    {
-      text: "💢 知识点过关训练",
-      icon: "",
-      prefix: "/quiz/",
-      collapsible: true,
-      children: "structure",
     },
     {
       text: "1️⃣ 一轮复习",
