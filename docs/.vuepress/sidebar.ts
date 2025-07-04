@@ -30,14 +30,6 @@ export default sidebar({
       children: "structure",
     }, 
     {
-      text: "📖 背记手册",
-      icon: "",
-      prefix: "/handbook/",
-      link: "",
-      collapsible: true,  
-      children: "structure",
-    },
-    {
       text: "💯 基础知识汇总",
       icon: "",
       prefix: "/knowledges/",
