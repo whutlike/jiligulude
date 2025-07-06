@@ -31,7 +31,7 @@ export default defineUserConfig({
     // 谷歌分析
     googleAnalyticsPlugin({
       // 设置你的 Analytics ID
-      id: "GTM-N2BZTHXF",
+      id: "G-CLQV8KBHD0",
     }),
     // 数学公式支持
     markdownMathPlugin({
