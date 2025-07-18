@@ -21,15 +21,9 @@ icon: fa6-solid:book-open-reader
 
 [huaxue.so.kg](https://huaxue.so.kg/)（访问不稳定）
 
-## 布局
+## 手机端使用
 
-网站删掉了所有付费痕迹，供大家无偿使用
-
-目的是提供一个平台，让大家放心的参与到网站建设
-
-化学知识相关文件会放置在侧边栏
-
-个人随笔会放置在博客页面
+![手机端使用指南](https://img.edaychem.cn//img/20250705233031.jpg)
 
 ## 建设网站
 
