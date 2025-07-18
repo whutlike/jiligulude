@@ -93,7 +93,7 @@ export default hopeTheme(
       align: true, // 启用自定义对齐
       attrs: true, // 使用特殊标记为 Markdown 元素添加属性
       mark: true, // 使用 == == 进行标记，注意两边需要有空格
-      // spoiler: true, // 使用 !! !! 标记剧透剧透文字，注意两边需要有空格
+      spoiler: true, // 使用 !! !! 标记剧透剧透文字，注意两边需要有空格
       sup: true, // 上下角标
       sub: true,
       include: true, // 导入文件
