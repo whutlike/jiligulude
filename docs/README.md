@@ -15,11 +15,10 @@ icon: fa6-solid:book-open-reader
 
 此方案0成本，可以长期访问 
 
-你可以通过以下两个域名访问本网站
+你可以通过以下域名访问本网站
 
-[doc.edaychem.cn](https://doc.edaychem.cn/)（速度更快，更新较慢）
+[doc.edaychem.cn](https://doc.edaychem.cn/)
 
-[huaxue.so.kg](https://huaxue.so.kg/)（访问不稳定）
 
 ## 手机端使用
 
