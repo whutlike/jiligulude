@@ -22,7 +22,7 @@ icon: fa6-solid:book-open-reader
 
 ## 手机端使用
 
-![手机端使用指南](https://img.edaychem.cn//img/20250705233031.jpg)
+![](https://img.edaychem.cn//img/20250705233031.jpg)
 
 ## 建设网站
 
