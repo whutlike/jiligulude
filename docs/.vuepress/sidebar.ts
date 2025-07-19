@@ -11,7 +11,7 @@ export default sidebar({
     // 第二个页面
     "/markdown",
     // 读书笔记架构更换到 docsify，不能使用相对链接
-    { text: "读书笔记", icon: "fa6-brands:readme", link: "https://doc.edaychem.cn/reading/" },
+    // { text: "读书笔记", icon: "fa6-brands:readme", link: "https://doc.edaychem.cn/reading/" },
     // 指定显示页面
     {
       text: "🌱 学习经验",
