@@ -29,11 +29,6 @@ export default navbar([
         link: "https://markmap.js.org/repl",
       },
       {
-        text: "化学知识刷刷刷",
-        icon: "fa6-solid:question",
-        link: "https://quiz.edaychem.cn/",
-      },
-      {
         text: "",
         icon: "",
         link: "",
@@ -53,10 +48,6 @@ export default navbar([
       { text: "网络资料",
         icon: "fa6-solid:cloud-arrow-down",
         link: "https://pan.quark.cn/s/707018aa1155",
-      },
-      { text: "资料分类目录", 
-        icon: "fa6-solid:dove", 
-        link: "https://www.yuque.com/edaychem/dxf4ev/hkrucv9l8wp08gmn?singleDoc# 《资料下载数据库》",
       },
     ],
   },
