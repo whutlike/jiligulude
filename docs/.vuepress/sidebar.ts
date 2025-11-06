@@ -107,7 +107,6 @@ export default sidebar({
   ],
   // 专题区（独立侧边栏）
   "/knowledges/": "structure",
-  "//experimental/": "structure",
   "/_posts/": [
     {
       text: "博客文章",
